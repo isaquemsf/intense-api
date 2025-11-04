@@ -42,7 +42,7 @@ Para executar este projeto no seu ambiente de desenvolvimento, siga os passos ab
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/intense-api.git
+    git clone https://github.com/isaquemsf/intense-api.git
     cd intense-api
     ```
 
