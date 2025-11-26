@@ -7,7 +7,7 @@ server:
 
 gemini:
   api-key: ${GEMINI_API_KEY}
-  model-name: "gemini-flash-lite-latest"
+  model-name: "gemini-2.5-pro"
   prompt-template: >
     prompt-template: >
         ### PAPEL
